@@ -1,4 +1,4 @@
-# 📘 CISA Certification Blog
+# 📘 CISA Blog
 
 > **CISA 준비를 위한 모든 정보!**  
 > 시험 구조, 학습 자료, 실무 적용 사례, FAQ, 그리고 목표 달성을 위한 팁까지!
